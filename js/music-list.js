@@ -11,6 +11,13 @@ let allMusic = [{
         img: "music-5",
         src: "music-5"
     },
+
+    {
+        name: "Bước Qua Nhau",
+        artist: "Vũ",
+        img: "music-9",
+        src: "music-9"
+    },
     {
         name: "Có hẹn với thanh xuân",
         artist: "Monstar",
